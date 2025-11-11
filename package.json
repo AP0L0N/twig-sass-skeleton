@@ -4,7 +4,7 @@
   "description": "This extension will convert your twig file to sass skeleton",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.105.0",
+    "vscode": "^1.99.3",
     "cursor": "^2.0.0"
   },
   "categories": [
@@ -48,7 +48,7 @@
     "@types/cheerio": "^0.22.35",
     "@types/mocha": "^10.0.10",
     "@types/node": "22.x",
-    "@types/vscode": "^1.105.0",
+    "@types/vscode": "^1.99.3",
     "@types/webpack": "^5.28.5",
     "@vscode/test-cli": "^0.0.12",
     "@vscode/test-electron": "^2.5.2",
